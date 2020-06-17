@@ -4,7 +4,7 @@ Question 1. Why should we structure HTML semantically for something like a login
     us to more clearly represent the website's structure.
 Question 2. What are some benefits of everyone using similar semantic HTML? 
     If everyone used similar semantic HTML, we'd see more clearly how a website is structured pre-styling. For example, using
-    a lot of div tags rather than a header (<header>), nav, aside, or footer tag, doesn't clearly portray how the website should
+    a lot of div tags rather than a header (<header>), nav, aside, or footer tag, doesn't clearly portray how the website should 
     be styled. Using the same example from the last sentence, with many div tags, we're forced to search through the class 
     and id attributes to determine structure. Even if the website's developers are kind by using self-explanatory words in the 
     class and id attributes to show structure, it's still a hassle to read site structure. Semantic HTML also assists 
